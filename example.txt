@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 MLOps is interesting =
+=======
+MLOps is interesting, FTER DELETING REMOTE BRANCH again retrived using 'sha1' =
+>>>>>>> g24AIT070
